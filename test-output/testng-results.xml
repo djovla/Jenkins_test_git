@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="28" passed="28">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26745" started-at="2022-01-03T17:59:28 EST" finished-at="2022-01-03T17:59:55 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26745" started-at="2022-01-03T17:59:28 EST" finished-at="2022-01-03T17:59:55 EST">
+      <class name="com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4">
+        <test-method status="PASS" signature="BrowserLaunch(java.lang.String)[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="BrowserLaunch" is-config="true" duration-ms="1541" started-at="2022-01-03T17:59:39 EST" finished-at="2022-01-03T17:59:41 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="tc_001_Launch_Drag_And_Drop_Application()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="tc_001_Launch_Drag_And_Drop_Application" duration-ms="950" started-at="2022-01-03T17:59:41 EST" finished-at="2022-01-03T17:59:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_Launch_Drag_And_Drop_Application -->
+        <test-method status="PASS" signature="scrrenshot(org.testng.ITestResult)[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="scrrenshot" is-config="true" duration-ms="349" started-at="2022-01-03T17:59:42 EST" finished-at="2022-01-03T17:59:42 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_001_Launch_Drag_And_Drop_Application status=SUCCESS method=TS_001_Drag_And_Drop_Assignment_12_4.tc_001_Launch_Drag_And_Drop_Application()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrrenshot -->
+        <test-method status="PASS" signature="tc_002_Drag_And_Drop_Bank_To_Account_Debit_Side_Link()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="tc_002_Drag_And_Drop_Bank_To_Account_Debit_Side_Link" duration-ms="340" started-at="2022-01-03T17:59:42 EST" finished-at="2022-01-03T17:59:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_Drag_And_Drop_Bank_To_Account_Debit_Side_Link -->
+        <test-method status="PASS" signature="scrrenshot(org.testng.ITestResult)[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="scrrenshot" is-config="true" duration-ms="447" started-at="2022-01-03T17:59:42 EST" finished-at="2022-01-03T17:59:43 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_002_Drag_And_Drop_Bank_To_Account_Debit_Side_Link status=SUCCESS method=TS_001_Drag_And_Drop_Assignment_12_4.tc_002_Drag_And_Drop_Bank_To_Account_Debit_Side_Link()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrrenshot -->
+        <test-method status="PASS" signature="tc_003_Drag_And_Drop_50000_To_Account_Debit_Side_Link()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="tc_003_Drag_And_Drop_50000_To_Account_Debit_Side_Link" duration-ms="268" started-at="2022-01-03T17:59:43 EST" finished-at="2022-01-03T17:59:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_003_Drag_And_Drop_50000_To_Account_Debit_Side_Link -->
+        <test-method status="PASS" signature="scrrenshot(org.testng.ITestResult)[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="scrrenshot" is-config="true" duration-ms="300" started-at="2022-01-03T17:59:43 EST" finished-at="2022-01-03T17:59:43 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_003_Drag_And_Drop_50000_To_Account_Debit_Side_Link status=SUCCESS method=TS_001_Drag_And_Drop_Assignment_12_4.tc_003_Drag_And_Drop_50000_To_Account_Debit_Side_Link()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrrenshot -->
+        <test-method status="PASS" signature="tc_004_Drag_And_Drop_Sales_To_Account_Credit_Side_Link()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="tc_004_Drag_And_Drop_Sales_To_Account_Credit_Side_Link" duration-ms="260" started-at="2022-01-03T17:59:43 EST" finished-at="2022-01-03T17:59:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_004_Drag_And_Drop_Sales_To_Account_Credit_Side_Link -->
+        <test-method status="PASS" signature="scrrenshot(org.testng.ITestResult)[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="scrrenshot" is-config="true" duration-ms="340" started-at="2022-01-03T17:59:44 EST" finished-at="2022-01-03T17:59:44 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_004_Drag_And_Drop_Sales_To_Account_Credit_Side_Link status=SUCCESS method=TS_001_Drag_And_Drop_Assignment_12_4.tc_004_Drag_And_Drop_Sales_To_Account_Credit_Side_Link()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrrenshot -->
+        <test-method status="PASS" signature="tc_005_Drag_And_Drop_5000_To_Account_Credit_Side_Link()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="tc_005_Drag_And_Drop_5000_To_Account_Credit_Side_Link" duration-ms="271" started-at="2022-01-03T17:59:44 EST" finished-at="2022-01-03T17:59:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_005_Drag_And_Drop_5000_To_Account_Credit_Side_Link -->
+        <test-method status="PASS" signature="scrrenshot(org.testng.ITestResult)[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="scrrenshot" is-config="true" duration-ms="333" started-at="2022-01-03T17:59:44 EST" finished-at="2022-01-03T17:59:45 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_005_Drag_And_Drop_5000_To_Account_Credit_Side_Link status=SUCCESS method=TS_001_Drag_And_Drop_Assignment_12_4.tc_005_Drag_And_Drop_5000_To_Account_Credit_Side_Link()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrrenshot -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4@6fb0d3ed]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:45 EST" finished-at="2022-01-03T17:59:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.testscenarios.TS_001_Drag_And_Drop_Assignment_12_4 -->
+      <class name="com.testscenarios.TS_001_Toyota_Assignment_12_3">
+        <test-method status="PASS" signature="BrowserLaunch(java.lang.String)[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="BrowserLaunch" is-config="true" duration-ms="2367" started-at="2022-01-03T17:59:28 EST" finished-at="2022-01-03T17:59:31 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="tc_001_Launch_Toyota_Application()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="tc_001_Launch_Toyota_Application" duration-ms="4555" started-at="2022-01-03T17:59:31 EST" finished-at="2022-01-03T17:59:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_Launch_Toyota_Application -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:31 EST" finished-at="2022-01-03T17:59:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:35 EST" finished-at="2022-01-03T17:59:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:35 EST" finished-at="2022-01-03T17:59:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc_002_Click_Yes_I_Agree_Button()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="tc_002_Click_Yes_I_Agree_Button" duration-ms="1812" started-at="2022-01-03T17:59:35 EST" finished-at="2022-01-03T17:59:37 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_Click_Yes_I_Agree_Button -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:37 EST" finished-at="2022-01-03T17:59:37 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:37 EST" finished-at="2022-01-03T17:59:37 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc_003_Click_ToyotaPage_Icon_Quick_Finance_Calculator_Link()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="tc_003_Click_ToyotaPage_Icon_Quick_Finance_Calculator_Link" duration-ms="249" started-at="2022-01-03T17:59:37 EST" finished-at="2022-01-03T17:59:37 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_003_Click_ToyotaPage_Icon_Quick_Finance_Calculator_Link -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:37 EST" finished-at="2022-01-03T17:59:37 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tc_004_Navigate_To_Tab_And_Select_A_Random_Car_Input()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="tc_004_Navigate_To_Tab_And_Select_A_Random_Car_Input" duration-ms="1940" started-at="2022-01-03T17:59:37 EST" finished-at="2022-01-03T17:59:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_004_Navigate_To_Tab_And_Select_A_Random_Car_Input -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:37 EST" finished-at="2022-01-03T17:59:37 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:39 EST" finished-at="2022-01-03T17:59:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testscenarios.TS_001_Toyota_Assignment_12_3@2fd66ad3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:39 EST" finished-at="2022-01-03T17:59:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.testscenarios.TS_001_Toyota_Assignment_12_3 -->
+      <class name="com.testscenarios.TS_001_Book_Flight_In_BlazeDemo">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String)[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="launchBrowser" is-config="true" duration-ms="1455" started-at="2022-01-03T17:59:45 EST" finished-at="2022-01-03T17:59:46 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-01-03T17:59:46 EST" finished-at="2022-01-03T17:59:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_001_Invoke_BlazeDemo_application()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_001_Invoke_BlazeDemo_application" duration-ms="420" started-at="2022-01-03T17:59:46 EST" finished-at="2022-01-03T17:59:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_Invoke_BlazeDemo_application -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-01-03T17:59:47 EST" finished-at="2022-01-03T17:59:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_002_Choose_Your_Departure_Randomly_City()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_002_Choose_Your_Departure_Randomly_City" duration-ms="72" started-at="2022-01-03T17:59:47 EST" finished-at="2022-01-03T17:59:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_Choose_Your_Departure_Randomly_City -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:47 EST" finished-at="2022-01-03T17:59:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_003_Choose_Your_Destination_Randomly_City()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_003_Choose_Your_Destination_Randomly_City" duration-ms="2107" started-at="2022-01-03T17:59:47 EST" finished-at="2022-01-03T17:59:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_003_Choose_Your_Destination_Randomly_City -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:49 EST" finished-at="2022-01-03T17:59:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_004_Click_Find_Flights_Button()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_004_Click_Find_Flights_Button" duration-ms="2281" started-at="2022-01-03T17:59:49 EST" finished-at="2022-01-03T17:59:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_004_Click_Find_Flights_Button -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-01-03T17:59:51 EST" finished-at="2022-01-03T17:59:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_005_Click_Random_One_Of_Choose_Flights_Button()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_005_Click_Random_One_Of_Choose_Flights_Button" duration-ms="253" started-at="2022-01-03T17:59:51 EST" finished-at="2022-01-03T17:59:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_005_Click_Random_One_Of_Choose_Flights_Button -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-01-03T17:59:51 EST" finished-at="2022-01-03T17:59:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_006_Type_Name_Input()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_006_Type_Name_Input" duration-ms="185" started-at="2022-01-03T17:59:51 EST" finished-at="2022-01-03T17:59:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_006_Type_Name_Input -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:51 EST" finished-at="2022-01-03T17:59:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_007_Type_Name_Input()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_007_Type_Name_Input" duration-ms="129" started-at="2022-01-03T17:59:51 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_007_Type_Name_Input -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_008_Type_Address_Input()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_008_Type_Address_Input" duration-ms="101" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_008_Type_Address_Input -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_009_Type_City_Input()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_009_Type_City_Input" duration-ms="100" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_009_Type_City_Input -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_010_Type_State_Input()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_010_Type_State_Input" duration-ms="90" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_010_Type_State_Input -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_011_Type_Zipcode_Input()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_011_Type_Zipcode_Input" duration-ms="98" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_011_Type_Zipcode_Input -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_012_Select_Card_Type_Randomly_Select()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_012_Select_Card_Type_Randomly_Select" duration-ms="57" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_012_Select_Card_Type_Randomly_Select -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_013_Type_Card_Number_Input()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_013_Type_Card_Number_Input" duration-ms="97" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_013_Type_Card_Number_Input -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_014_Type_Card_Month_Input()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_014_Type_Card_Month_Input" duration-ms="138" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_014_Type_Card_Month_Input -->
+        <test-method status="PASS" signature="tc_015_Type_Card_Year_Input()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_015_Type_Card_Year_Input" duration-ms="140" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_015_Type_Card_Year_Input -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_016_Type_Card_Holder_Name_Input()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_016_Type_Card_Holder_Name_Input" duration-ms="2090" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_016_Type_Card_Holder_Name_Input -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:52 EST" finished-at="2022-01-03T17:59:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-01-03T17:59:55 EST" finished-at="2022-01-03T17:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_017_Click_Purchase_Flight_Button()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_017_Click_Purchase_Flight_Button" duration-ms="326" started-at="2022-01-03T17:59:55 EST" finished-at="2022-01-03T17:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_017_Click_Purchase_Flight_Button -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-01-03T17:59:55 EST" finished-at="2022-01-03T17:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_018_Get_Message_Thank_You_Print_To_Console_H1()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_018_Get_Message_Thank_You_Print_To_Console_H1" duration-ms="36" started-at="2022-01-03T17:59:55 EST" finished-at="2022-01-03T17:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_018_Get_Message_Thank_You_Print_To_Console_H1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-01-03T17:59:55 EST" finished-at="2022-01-03T17:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tc_019_Get_Input_From_Table_Print_To_Console_Td()[pri:0, instance:com.testscenarios.TS_001_Book_Flight_In_BlazeDemo@6dde5c8c]" name="tc_019_Get_Input_From_Table_Print_To_Console_Td" duration-ms="173" started-at="2022-01-03T17:59:55 EST" finished-at="2022-01-03T17:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_019_Get_Input_From_Table_Print_To_Console_Td -->
+      </class> <!-- com.testscenarios.TS_001_Book_Flight_In_BlazeDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
